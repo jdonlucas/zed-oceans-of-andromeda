@@ -4,7 +4,7 @@ A beautiful dark theme for Visual Studio Code that gives you the taste of waters
 
 **Original [Oceans of Andromeda](https://github.com/samlovescoding/oceans-of-andromeda) VS Code theme by [@samlovescoding](https://github.com/samlovescoding) ported to Zed**
 
-<img src="https://raw.githubusercontent.com/jdonlucas/oceans-of-andromeda/main/screenshot.png" alt="Oceans of Andromeda Screenshot" style="margin: 0 10px;"/>
+<img src="https://raw.githubusercontent.com/jdonlucas/zed-oceans-of-andromeda/main/screenshot.png" alt="Oceans of Andromeda Screenshot" style="margin: 0 10px;"/>
 
 ## Features
 
