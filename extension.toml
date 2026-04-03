@@ -1,0 +1,10 @@
+id = "oceans-of-andromeda"
+name = "Oceans of Andromeda"
+version = "1.0.0"
+schema_version = 1
+description = "A beautiful dark theme inspired by the waters of Andromeda. Ported from VS Code."
+authors = ["samlovescoding", "jdonlucas"]
+repository = "https://github.com/jdonlucas/oceans-of-andromeda"
+
+[themes]
+themes = ["themes/oceans-of-andromeda.json"]
