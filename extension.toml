@@ -1,6 +1,6 @@
 id = "oceans-of-andromeda-theme"
 name = "Oceans of Andromeda"
-version = "1.0.0"
+version = "1.0.1"
 schema_version = 1
 description = "A beautiful dark theme inspired by the waters of Andromeda. Ported from VS Code."
 authors = ["samlovescoding", "jdonlucas"]
